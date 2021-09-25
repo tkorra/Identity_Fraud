@@ -537,6 +537,7 @@ Tab2:Colorpicker("Monster Color", Color3.fromRGB(210, 29, 29), function(Color)
 end)
 -- Credits Tab
 Tab3:Label("Script by arcranes.")
+Tab3:Label("Identity Fraud ESP is made by Pistol on forums.")
 Tab3:Button("Copy Discord Link", function()
     setclipboard("korra#1111")
 end)
